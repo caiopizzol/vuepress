@@ -1,4 +1,5 @@
 module.exports = {
   theme: 'api',
-  base: '/vuepress/'
+  base: '/vuepress/',
+  plugins: [ 'code-switcher' ]
 }
