@@ -62,3 +62,4 @@ typings/
 
 # document files
 docs/.vuepress/dist/
+.DS_Store
